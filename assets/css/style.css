@@ -1,0 +1,55 @@
+.member-icons img{
+    margin-top: 10px;
+    margin-bottom: 15px 
+}
+.member-icons .linkedin-icon{
+    width: 30px;
+  
+}
+
+.member-icons .github-icon{
+    width: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.member-icons .mail-icon{
+    width: 30px;
+}
+.footer {
+    background-color: black;
+}
+
+.linkedin-icon{
+    transition: 1s;
+}
+.linkedin-icon:hover {
+   transform: scale(1.3);
+   z-index: 2;
+
+}
+
+.github-icon{
+    transition: 1s;
+}
+.github-icon:hover {
+   transform: scale(1.3);
+   z-index: 2;
+
+}
+
+.mail-icon{
+    transition: 1s;
+}
+.mail-icon:hover {
+   transform: scale(1.3);
+   z-index: 2;
+
+}
+
+.about-us{
+    padding-bottom: 50px;
+}
+.about-hourofc{
+    padding-bottom: 50px;
+
+}
